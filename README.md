@@ -393,7 +393,7 @@ Note: You didn't use the -out option to save this plan, so Terraform
 can't guarantee to take exactly these actions if you run "terraform
 apply" now.
 ```
-[maint.tf](src/maint.tf)
+[maint.tf](src/main.tf)
 
 [versions.tf](src/versions.tf)
 
