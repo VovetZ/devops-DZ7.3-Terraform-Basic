@@ -397,7 +397,7 @@ apply" now.
 [versions.tf](versions.tf)
 [outputs.tf](outputs.tf)
 
-![S3 state Prod](sr-state-prod.png)
+![S3 state Prod](s3-state-prod.png)
 
 ### Как cдавать задание
 
