@@ -393,11 +393,11 @@ Note: You didn't use the -out option to save this plan, so Terraform
 can't guarantee to take exactly these actions if you run "terraform
 apply" now.
 ```
-[maint.tf](maint.tf)
+[maint.tf](src/maint.tf)
 
-[versions.tf](versions.tf)
+[versions.tf](src/versions.tf)
 
-[outputs.tf](outputs.tf)
+[outputs.tf](src/outputs.tf)
 
 ![S3 state Prod](s3-state-prod.png)
 
