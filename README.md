@@ -393,9 +393,12 @@ Note: You didn't use the -out option to save this plan, so Terraform
 can't guarantee to take exactly these actions if you run "terraform
 apply" now.
 ```
-(maint.tf)[maint.tf]
-(versions.tf)[versions.tf]
-(outputs.tf)[outputs.tf]
+[maint.tf](maint.tf)
+[versions.tf](versions.tf)
+[outputs.tf](outputs.tf)
+
+![S3 state Prod](sr-state-prod.png)
+
 ### Как cдавать задание
 
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
